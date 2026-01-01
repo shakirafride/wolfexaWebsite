@@ -1,0 +1,86 @@
+/* Enhanced Dropdown Functionality */
+
+/* Ensure dropdowns are hidden by default */
+.main-menu .main-menu__list > li.dropdown > ul {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all 0.3s ease;
+  pointer-events: none;
+}
+
+/* Show dropdowns on hover and active state */
+.main-menu .main-menu__list > li.dropdown:hover > ul,
+.main-menu .main-menu__list > li.dropdown.active > ul {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+/* Ensure dropdown items are clickable */
+.main-menu .main-menu__list > li.dropdown > ul > li {
+  pointer-events: auto;
+}
+
+.main-menu .main-menu__list > li.dropdown > ul > li > a {
+  pointer-events: auto;
+  display: block;
+  padding: 10px 20px;
+  transition: all 0.3s ease;
+}
+
+/* Hover effects for dropdown items */
+.main-menu .main-menu__list > li.dropdown > ul > li:hover > a {
+  background-color: rgba(var(--techguru-base-rgb), 0.1);
+  color: var(--techguru-base);
+}
+
+/* Prevent dropdown from closing when hovering over dropdown content */
+.main-menu .main-menu__list > li.dropdown > ul:hover {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Mobile dropdown fixes */
+@media (max-width: 991px) {
+  .main-menu .main-menu__list > li.dropdown > ul {
+    position: static;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .main-menu .main-menu__list > li.dropdown.active > ul {
+    display: block;
+  }
+}
+
+/* Ensure proper z-index for dropdowns */
+.main-menu .main-menu__list > li.dropdown > ul {
+  z-index: 999;
+}
+
+/* Smooth transitions for better UX */
+.main-menu .main-menu__list > li.dropdown {
+  transition: all 0.3s ease;
+}
+
+/* Fix for megamenu dropdown */
+.main-menu .main-menu__list > li.megamenu > ul {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: all 0.3s ease;
+}
+
+.main-menu .main-menu__list > li.megamenu:hover > ul,
+.main-menu .main-menu__list > li.megamenu.active > ul {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}

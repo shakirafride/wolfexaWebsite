@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/threat-detection-prevention/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

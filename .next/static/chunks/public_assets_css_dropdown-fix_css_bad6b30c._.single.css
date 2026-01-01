@@ -1,0 +1,76 @@
+/* [project]/public/assets/css/dropdown-fix.css [app-client] (css) */
+.main-menu .main-menu__list > li.dropdown > ul {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: all .3s;
+  transform: translateY(10px);
+}
+
+.main-menu .main-menu__list > li.dropdown:hover > ul, .main-menu .main-menu__list > li.dropdown.active > ul {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.main-menu .main-menu__list > li.dropdown > ul > li {
+  pointer-events: auto;
+}
+
+.main-menu .main-menu__list > li.dropdown > ul > li > a {
+  pointer-events: auto;
+  padding: 10px 20px;
+  transition: all .3s;
+  display: block;
+}
+
+.main-menu .main-menu__list > li.dropdown > ul > li:hover > a {
+  background-color: rgba(var(--techguru-base-rgb), .1);
+  color: var(--techguru-base);
+}
+
+.main-menu .main-menu__list > li.dropdown > ul:hover {
+  opacity: 1;
+  visibility: visible;
+}
+
+@media (max-width: 991px) {
+  .main-menu .main-menu__list > li.dropdown > ul {
+    opacity: 1;
+    visibility: visible;
+    box-shadow: none;
+    background: none;
+    margin: 0;
+    padding: 0;
+    position: static;
+    transform: none;
+  }
+
+  .main-menu .main-menu__list > li.dropdown.active > ul {
+    display: block;
+  }
+}
+
+.main-menu .main-menu__list > li.dropdown > ul {
+  z-index: 999;
+}
+
+.main-menu .main-menu__list > li.dropdown {
+  transition: all .3s;
+}
+
+.main-menu .main-menu__list > li.megamenu > ul {
+  opacity: 0;
+  visibility: hidden;
+  transition: all .3s;
+  transform: translateY(10px);
+}
+
+.main-menu .main-menu__list > li.megamenu:hover > ul, .main-menu .main-menu__list > li.megamenu.active > ul {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/*# sourceMappingURL=public_assets_css_dropdown-fix_css_bad6b30c._.single.css.map*/

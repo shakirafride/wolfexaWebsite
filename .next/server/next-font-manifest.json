@@ -1,0 +1,63 @@
+{
+  "app": {
+    "[project]/app/blog-carousel/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/blog-details/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/cart/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/contact/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/data-protection-privacy/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/faq/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/index2-onepage/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/index2/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/onepage/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/pricing/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/products/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/testimonials-carousel/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ],
+    "[project]/app/threat-detection-prevention/page": [
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2",
+      "static/media/ec2f4458eb06f74e-s.p.69e2a7a7.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

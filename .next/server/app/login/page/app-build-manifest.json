@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "/login/page": [
+      "static/chunks/7b07c_next_dist_0f68a90d._.js",
+      "static/chunks/48dbd_ions-next-js-templ-2025-11-25-18-07-41-utc_techguru_app_favicon_ico_mjs_ab34eae2._.js",
+      "static/chunks/[root-of-the-server]__34732d7b._.css",
+      "static/chunks/afa29_-technology-it-solutions-next-js-templ-2025-11-25-18-07-41-utc_techguru_71156b11._.js",
+      "static/chunks/90e8b_solutions-next-js-templ-2025-11-25-18-07-41-utc_techguru_app_layout_tsx_5fc6de7a._.js",
+      "static/chunks/42196_empl-2025-11-25-18-07-41-utc_techguru_components_elements_Preloader_tsx_dc70a7cf._.js",
+      "static/chunks/2dde7_olutions-next-js-templ-2025-11-25-18-07-41-utc_techguru_app_loading_tsx_c9fa1f7e._.js",
+      "static/chunks/7b07c_next_dist_cd103e23._.js",
+      "static/chunks/24cec_utions-next-js-templ-2025-11-25-18-07-41-utc_techguru_app_not-found_tsx_c9fa1f7e._.js",
+      "static/chunks/7b07c_next_dist_client_components_builtin_global-error_c9fa1f7e.js",
+      "static/chunks/45e1c_-it-solutions-next-js-templ-2025-11-25-18-07-41-utc_techguru_components_ad465b35._.js",
+      "static/chunks/7b07c_next_a0722835._.js",
+      "static/chunks/c4167_tions-next-js-templ-2025-11-25-18-07-41-utc_techguru_app_login_page_tsx_c9fa1f7e._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_761ba023._.js",
+      "static/chunks/7b07c_next_dist_compiled_react-dom_4cc0b81c._.js",
+      "static/chunks/7b07c_next_dist_compiled_next-devtools_index_e5c9fec5.js",
+      "static/chunks/7b07c_next_dist_compiled_195d57e9._.js",
+      "static/chunks/7b07c_next_dist_client_8605c770._.js",
+      "static/chunks/7b07c_next_dist_7a97d078._.js",
+      "static/chunks/afa29_-technology-it-solutions-next-js-templ-2025-11-25-18-07-41-utc_techguru_a0ff3932._.js",
+      "static/chunks/70bc2_-technology-it-solutions-next-js-templ-2025-11-25-18-07-41-utc_techguru_c3e9cb71._.js"
+    ]
+  }
+}

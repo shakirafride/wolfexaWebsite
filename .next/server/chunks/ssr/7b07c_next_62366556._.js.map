@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":["file:///E:/MY%20CODE/Wolfexa/Wolfexa_Themes/Envto/NEXT%20JS/techguru-technology-it-solutions-next-js-templ-2025-11-25-18-07-41-utc/techguru/node_modules/next/image.js"],"sourcesContent":["module.exports = require('./dist/shared/lib/image-external')\n"],"names":[],"mappings":"AAAA,OAAO,OAAO","ignoreList":[0],"debugId":null}},
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///E:/MY%20CODE/Wolfexa/Wolfexa_Themes/Envto/NEXT%20JS/techguru-technology-it-solutions-next-js-templ-2025-11-25-18-07-41-utc/techguru/node_modules/next/navigation.js"],"sourcesContent":["module.exports = require('./dist/client/components/navigation')\n"],"names":[],"mappings":"AAAA,OAAO,OAAO","ignoreList":[0],"debugId":null}}]
+}

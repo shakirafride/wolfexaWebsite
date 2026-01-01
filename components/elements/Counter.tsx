@@ -13,8 +13,9 @@ export default function Counter({ end, duration }: CounterProps) {
 
   useEffect(() => {
     const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
+      (entries) => {
+        const entry = entries[0];
+        if (entry && entry.isIntersecting) {
           setIsCounting(true);
           observer.disconnect();
         }

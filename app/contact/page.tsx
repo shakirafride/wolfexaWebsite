@@ -1,6 +1,4 @@
 
-import Image from "next/image";
-import Link from "next/link";
 import Layout from "@/components/layout/Layout";
 import Newsletter from "@/components/sections/home1/Newsletter";
 import Contact from "@/components/sections/home2/Contact";

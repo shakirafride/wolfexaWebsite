@@ -14,10 +14,6 @@ export default function MainMenu() {
   const isActive = (path: string, exact = true) =>
     exact ? pathname === path : pathname.startsWith(path);
 
-  const handleDropdownToggle = (dropdownName: string) => {
-    setActiveDropdown(activeDropdown === dropdownName ? null : dropdownName);
-  };
-
   const handleMouseEnter = (dropdownName: string) => {
     setActiveDropdown(dropdownName);
   };

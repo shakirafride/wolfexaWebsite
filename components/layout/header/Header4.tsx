@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import OnepageMobileMenu_Two from "../OnepageMobileMenu_Two";
 import OnepageMenu_Two from "../OnepageMenu_Two";
 

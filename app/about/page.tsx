@@ -5,7 +5,7 @@ import AnimatedTitle from "@/components/elements/AnimatedTitle";
 import Counter from "@/components/sections/home1/Counter";
 import Team from "@/components/sections/InnerSection/Team";
 import Process from "@/components/sections/home2/Process";
-import Testimonial from "@/components/sections/home3/Testimonial";
+import Testimonial from "@/components/sections/home1/Testimonial";
 import Newsletter from "@/components/sections/home1/Newsletter";
 export default function About_Page() {
 

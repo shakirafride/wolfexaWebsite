@@ -1,17 +1,12 @@
 {
-  "/blog-carousel/page": "app/blog-carousel/page.js",
-  "/blog-details/page": "app/blog-details/page.js",
-  "/cart/page": "app/cart/page.js",
+  "/about/page": "app/about/page.js",
+  "/blog/page": "app/blog/page.js",
   "/contact/page": "app/contact/page.js",
-  "/data-protection-privacy/page": "app/data-protection-privacy/page.js",
-  "/faq/page": "app/faq/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/index2-onepage/page": "app/index2-onepage/page.js",
   "/index2/page": "app/index2/page.js",
   "/onepage/page": "app/onepage/page.js",
   "/page": "app/page.js",
-  "/pricing/page": "app/pricing/page.js",
   "/products/page": "app/products/page.js",
-  "/testimonials-carousel/page": "app/testimonials-carousel/page.js",
-  "/threat-detection-prevention/page": "app/threat-detection-prevention/page.js"
+  "/services/page": "app/services/page.js"
 }
